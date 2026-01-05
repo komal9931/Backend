@@ -1,0 +1,24 @@
+[
+  {
+    "id": "37eee980-b326-4d5e-819e-483066e227b3",
+    "name": "root-pankajkumar@gmail.com",
+    "userId": "798ae0aa-09b3-4815-b0bd-02ccb7ded301",
+    "parentDirId": null,
+    "files": ["f5dd4592-4afc-4079-a387-d932fde22718"],
+    "directories": ["1095caea-266c-4319-bd19-ebf8328446e9"]
+  },
+  {
+    "id": "1095caea-266c-4319-bd19-ebf8328446e9",
+    "name": "client",
+    "parentDirId": "37eee980-b326-4d5e-819e-483066e227b3",
+    "files": ["634429d8-d383-42f0-ad27-cd364a34734c"],
+    "directories": ["1ef0f6de-f877-4d36-b5ca-3c21b7b1a157"]
+  },
+  {
+    "id": "1ef0f6de-f877-4d36-b5ca-3c21b7b1a157",
+    "name": "terter",
+    "parentDirId": "1095caea-266c-4319-bd19-ebf8328446e9",
+    "files": [],
+    "directories": []
+  }
+]
